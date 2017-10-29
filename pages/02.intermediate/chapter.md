@@ -1,11 +1,12 @@
 ---
 title: Intermediate
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter 2
 
-# Intermediate Hello world 123
+# Intermediate Hello world 123 Hello to you
 
 Delve deeper into more **complex** topics
