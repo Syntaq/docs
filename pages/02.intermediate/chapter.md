@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapter 2
 
-# Intermediate
+# Intermediate Hello world
 
 Delve deeper into more **complex** topics
